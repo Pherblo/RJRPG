@@ -193,7 +193,7 @@
                 {
                     "name": "Joystick",
                     "id": "23c2d535-501c-4cc7-b427-642d463611b2",
-                    "path": "2DVector",
+                    "path": "2DVector(mode=2)",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
